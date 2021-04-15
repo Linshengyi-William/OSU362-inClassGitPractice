@@ -1,3 +1,7 @@
 def calc(a,b):
     sum = a + b
-    print(sum)
+    subt = a - b
+    #multi = a * b
+    #div = a / b
+
+    

@@ -5,8 +5,10 @@ def calc(a,b):
     div = a / b
 
     l = [sum,subt,multi,div]
-    #l_sum = sum + subt + multi + div
-    #return l_sum
+    l_sum = sum + subt + multi + div
+    return l_sum
+
+print(calc(3,4))
 
 
 
